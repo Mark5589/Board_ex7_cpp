@@ -19,7 +19,8 @@ public:
     TicTacToe(int n);
 //    ~TicTacToe();
     void play( Player& p1,  Player& p2);
-     Board& board() ;
+     Board board() const;
+//    const Board& board() ;
      Player& winner() const;
 
 
