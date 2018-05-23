@@ -9,8 +9,8 @@ TicTacToe::TicTacToe(int n): boardG(n) {
 
 }
 
- Board TicTacToe::board() const  {
-    return boardG;
+ const Board& TicTacToe::board() const  {
+    return this->boardG;
 }
 
 Player& TicTacToe::winner()  const {
