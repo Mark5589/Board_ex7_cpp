@@ -1,6 +1,7 @@
 //
 // Created by mark  gurin on 17/05/2018.
 //
+#pragma once
 
 #ifndef BOARD_PLAYER_H
 #define BOARD_PLAYER_H

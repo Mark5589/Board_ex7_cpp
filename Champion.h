@@ -1,6 +1,7 @@
 //
 // Created by mark  gurin on 18/05/2018.
 //
+#pragma once
 
 #ifndef BOARD_CHAMPION_H
 #define BOARD_CHAMPION_H

@@ -1,4 +1,4 @@
-//#pragma once
+#pragma once
 #ifndef BOARD_DUMMYPLAYERS_H
 #define BOARD_DUMMYPLAYERS_H
 

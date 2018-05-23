@@ -1,6 +1,7 @@
 //
 // Created by mark  gurin on 07/05/2018.
 //
+#pragma once
 
 #ifndef BOARD_MYEXCEPTION_HPP
 #define BOARD_MYEXCEPTION_HPP
